@@ -1,8 +1,8 @@
 # IP段匹配
-#IP-CIDR,142.171.133.131/32,no-resolve
+# IP-CIDR,142.171.133.131/32,no-resolve
 
 # 国外DNS
-#DOMAIN-SUFFIX,dns.google
+# DOMAIN-SUFFIX,dns.google
 
 # 其他网站
 DOMAIN-KEYWORD,beupisp
